@@ -154,7 +154,7 @@ button:hover {
 
 /*--//wrapper--*/
 .w3l-error-61-404 .error-61-mian {
-  background: url(../images/banner.jpg) no-repeat bottom;
+  background: url(https://api.wzue.cn/API/Acg/api.php) no-repeat bottom;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -327,7 +327,7 @@ background:transparent;
 
 @media (max-width:600px) {
   .w3l-error-61-404 .error-61-mian {
-    background: url(../images/banner.jpg) no-repeat right;
+    background: url(https://api.wzue.cn/API/Acg/api.php) no-repeat right;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
